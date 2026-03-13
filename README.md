@@ -54,3 +54,6 @@
 [![](https://img.shields.io/badge/rubber%20duck%20debugger-quack-DB1)](https://github.com/sebmestrallet/absurd-badges)
 [![](https://img.shields.io/badge/test-passing%20if%20you%20try%20a%20second%20time-3C1)](https://github.com/sebmestrallet/absurd-badges)
 [![](https://img.shields.io/badge/test-Segmentation%20fault%20(core%20dumped)-E43)](https://github.com/sebmestrallet/absurd-badges)
+
+
+<!--START_SECTION:activity-->

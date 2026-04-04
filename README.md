@@ -35,11 +35,8 @@
 <p align="center">
   <samp>__________________________________________</samp>
 
-</p>
-
-<h1 style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img width="600px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTU2b3oydHFraDVuM3AxdXZxanFveHN5NTBrN3J6djBvYnZ5aWdtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QJxuXhUXPeyKH9OCyY/giphy.gif">
-</h1>
+</p>
 
 hi, i'm eliana - 21 - she/her/hers 
 - i’m currently working on my website
@@ -48,11 +45,11 @@ hi, i'm eliana - 21 - she/her/hers
     - [32bit.cafe's git server](https://git.32bit.cafe/eliana)
     - [tangled](https://tangled.org/eliana.tngl.sh)
     - [gitlab](https://gitlab.com/etmr)
-<3 
+<p align="center">
+  <samp>𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 
+</samp>
 
-
-
-
+</p>
 
 
 

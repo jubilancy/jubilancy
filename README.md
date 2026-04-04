@@ -25,26 +25,20 @@
                                                              
                                                    
 </pre>
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/jubilancy/jubilancy.github.io?display_timestamp=author&style=for-the-badge&labelColor=pink&color=blue&link=https%3A%2F%2Fgithub.com%2Fjubilancy%2Fjubilancy.github.io)
 
 </div>
 <p align="center">
-  <samp><b>PGP key</b>: https://keybase.io/etmr</samp>
+  <samp><b>PGP key</b>: https://keybase.io/etmr </samp>
 </p>
-<p align="center">
-  <samp>__________________________________________</samp>
 
+<p align="center">
   <img width="600px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTU2b3oydHFraDVuM3AxdXZxanFveHN5NTBrN3J6djBvYnZ5aWdtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QJxuXhUXPeyKH9OCyY/giphy.gif">
 </p>
 
-hi, i'm eliana - 21 - she/her/hers 
+# ✴︎ eliana ✴︎ 21 ✴︎ she/her/hers ✴︎
 - i’m currently working on my website
-- find my repos on:
-    - [my website](https://git.eliana.lol/)
-    - [32bit.cafe's git server](https://git.32bit.cafe/eliana)
-    - [tangled](https://tangled.org/eliana.tngl.sh)
-    - [gitlab](https://gitlab.com/etmr)
+- find my repos on: my [website](https://git.eliana.lol/), [32bit.cafe's git server](https://git.32bit.cafe/eliana), [tangled](https://tangled.org/eliana.tngl.sh), or my [gitlab](https://gitlab.com/etmr). i also have a few projects hosted on [codeberg](https://codeberg.org/eliana). 
 <p align="center">
   <samp>𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 
 </samp>
@@ -53,26 +47,25 @@ hi, i'm eliana - 21 - she/her/hers
 
 
 
-## 🌐 connect with me:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/el.bsky.to) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@etmr) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/elliekkuma) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/tezeta) 
+# ✴︎ connect with me on the interweb ✴︎
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/el.bsky.to) [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@etmr) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/elliekkuma) [![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)](https://codepen.io/tezeta) 
 
-## 💻 tech stack:
+# ✴︎ tech stack ✴︎
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
 
-## GitHub Stats
+## ✴︎ GitHub Stats ✴︎
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubilancy&theme=tokyonight" alt="GitHub Streak" />
 
-## GitHub Activity Graph
+## ✴︎ GitHub Activity Graph ✴︎
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jubilancy&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jubilancy&radius=16&theme=xcode&area=true&order=5" height="200" alt="activity-graph" />
 
-### ✍️ Random Dev Quote
+## ✴︎ Random Dev Quote ✴︎
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jubilancy&icon=3&color=12)](https://visitcount.itsvg.in)
-
+## ✴︎ Fun Badges  ✴︎
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://badgen.net/static/code%20size/23.64%20GiB/3C1)](https://github.com/sebmestrallet/absurd-badges)

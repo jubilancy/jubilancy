@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Schedule daily updates at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Matches your lowercase repository secret name
+          token: ${{ secrets.metrics }}
+          
+          # Your GitHub username
+          user: jubilancy
+          
+          # Basic configuration
+          template: repository
+          base: header, community, repositories, metadata
+          config_timezone: America/New_York

@@ -1,0 +1,17 @@
+name: Metrics Theme - Repository
+on:
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.metrics }}
+          user: jubilancy
+          template: repository
+          filename: metrics-theme-repository.svg
+          # Replace 'eliana.lol' with your actual repository name
+          repo: eliana.lol 
+          plugin_lines: yes

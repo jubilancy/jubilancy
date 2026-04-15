@@ -44,7 +44,8 @@
 </samp>
 
 </p>
-
+## ⚡ Recent GitHub Activity
+*Commits, PRs, and Issues will appear here once the workflow runs.*
 
 
 # ✴︎ connect with me on the interweb ✴︎

@@ -1,65 +1,46 @@
-# ✴︎ tech stack ✴︎
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+eliana;Welcome+to+my+profile!" alt="" /></a>
+</h1>
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-      <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Hosting</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks & Libraries</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Design</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-      <img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Version Control</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Automation & Testing</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-      <img src="https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=black" />
-      <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-      <img src="https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/219467706?u=0fc9cecbb4c2185087ee4e60fb88ec5abe828ac6&v=4" width="150" style="border-radius: 50%;" alt="eliana" />
+</p>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+## 👨‍💻 About Me
+
+@basedgirl
+
+- 📍 Based in **northern virginia**
+- 🏢 Working at **eliana**
+- 🌐 Check out my [website](https://el.envs.net/)
+- 👥 **21** followers · **282** following
+
+## 🛠️ Languages & Tools
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🚀 Featured Projects
+
+### [tools](https://github.com/jubilancy/tools) `HTML`
+a set of containerized html files of tools for text and web development 
+⭐ 0 | 🍴 0
+
+### [armory](https://github.com/jubilancy/armory) `Python`
+building a collection of specific developer tools
+⭐ 0 | 🍴 0
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=jubilancy&theme=neon" alt="jubilancy highlights" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jubilancy&theme=neon&website=https%3A%2F%2Fel.envs.net%2F" alt="jubilancy social links" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jubilancy) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://el.envs.net/)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
